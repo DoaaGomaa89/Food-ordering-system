@@ -81,7 +81,7 @@ An online food ordering web application built with Django. This project allows u
    - Register a new account or log in using your existing credentials.
    
 2. **Browse the Menu**:
-   - The food items are categorized into **Main Course**, **Beverages**, and **Salad**.
+   - The food items are categorized.
    - Click the "Order" button to add items to your cart.
    
 3. **Like/Dislike Items**:
