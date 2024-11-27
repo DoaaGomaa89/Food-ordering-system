@@ -1,6 +1,6 @@
 # 🍽️ Food Ordering System
 
-An online food ordering web application built with Django. This project allows users to log in, register an account, and order food from a categorized menu (Main Course, Beverages, and Salad). Users can view and interact with the menu, add items to their cart, and manage their orders. The app is designed with a focus on UI/UX to enhance the user experience.
+An online food ordering web application built with Django. This project allows users to log in, register an account, and order food from a categorized menu. Users can view and interact with the menu, add items to their cart, and manage their orders. The app is designed with a focus on UI/UX to enhance the user experience.
 
 ---
 
