@@ -8,8 +8,8 @@ An online food ordering web application built with Django. This project allows u
 
 - **User Authentication**: Login to an existing account or register a new account.
 - **Food Menu**: View and order food items from categories like Main Course, Beverages, and Salad.
-- **Like/Dislike Items**: Users can like or dislike items to improve recommendations.
 - **Shopping Cart**: Users can add items to their cart and review the order before checkout.
+- **View Orders**: Users can view their current orders.
 - **Admin Panel**: Admin can manage menu items, categories, and orders.
 - **Responsive Design**: The app is optimized for both desktop and mobile views.
 
