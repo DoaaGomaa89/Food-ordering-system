@@ -153,7 +153,7 @@ Below are some screenshots of the app's interface:
    ![Login Page](./screenshots/login_page.png)
 
 2. **Food Menu**:
-   ![Food Menu](./screenshots/menu.png)
+   ![Food Menu](./screenshots/menu_page.png)
 
 3. **Cart Page**:
    ![Cart Page](./screenshots/cart.png)
